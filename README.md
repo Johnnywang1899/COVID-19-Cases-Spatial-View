@@ -4,7 +4,7 @@ The project uses arcGIS API to extract geographic information from China and Can
 The number of COVID-19 death, confirmed cases and vaccinated information are extracted and loaded on the map indicated in the bubble chart.
 
 ## Dependencis
-Pandas library
+Pandas library  
 arcGIS
 
 ## Problems encountered
